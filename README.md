@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋 I'm Fauzi
 
-<!--
-**mfauzi-dev/mfauzi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | System Analyst
 
-Here are some ideas to get you started:
+I build scalable backend systems and design clean system architecture
+based on real business requirements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Strong in system analysis & requirement gathering
+- Experience with ERD, Use Case, BRD, FSD
+- Implementing authentication (JWT, RBAC, Refresh Token)
+- Backend: Node.js, Express, MySQL, Sequelize
+- API design for real-world use cases
+
+### 🧠 What I do as a System Analyst
+- Translate business needs into technical solutions
+- Design database schema & system flow
+- Create FSD, Use Case Diagram, Activity Diagram, ERD
+- Collaborate with developers & stakeholders
+
+### 🛠 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
+
+### 📂 Highlight Projects
+- **Job Recruitment API** – real-world backend system with roles & authentication
+- **Tracer Study System** – system analysis & backend implementation
+
+### 🌐 Connect
+- LinkedIn: https://www.linkedin.com/in/mohammad-fauzi-6a5373264/
