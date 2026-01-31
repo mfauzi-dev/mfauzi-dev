@@ -11,13 +11,13 @@ based on real business requirements.
 - Backend: Node.js, Express, MySQL, Sequelize
 - API design for real-world use cases
 
-### 🧠 What I do as a System Analyst
+### What I do as a System Analyst
 - Translate business needs into technical solutions
 - Design database schema & system flow
 - Create FSD, Use Case Diagram, Activity Diagram, ERD
 - Collaborate with developers & stakeholders
 
-### 🛠 Tech Stack
+### Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
