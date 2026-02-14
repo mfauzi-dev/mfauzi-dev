@@ -20,8 +20,8 @@ based on real business requirements.
 ### Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
 
 ### Highlight Projects
 - **Job Recruitment API** – real-world backend system with roles & authentication
