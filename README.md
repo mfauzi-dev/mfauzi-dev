@@ -26,6 +26,3 @@ based on real business requirements.
 ### Highlight Projects
 - **Job Recruitment API** – real-world backend system with roles & authentication
 - **Tracer Study System** – system analysis & backend implementation
-
-### Connect
-- LinkedIn: https://www.linkedin.com/in/mohammad-fauzi-6a5373264/
