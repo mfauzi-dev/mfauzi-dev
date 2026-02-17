@@ -23,6 +23,5 @@ based on real business requirements.
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
-### Highlight Projects
-- **Job Recruitment API** – real-world backend system with roles & authentication
-- **Tracer Study System** – system analysis & backend implementation
+### Connect
+- Linkedin : https://www.linkedin.com/in/mohammad-fauzi-6a5373264/
