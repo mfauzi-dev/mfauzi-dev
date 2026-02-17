@@ -8,7 +8,7 @@ based on real business requirements.
 - Strong in system analysis & requirement gathering
 - Experience with ERD, Use Case, BRD, FSD
 - Implementing authentication (JWT, RBAC, Refresh Token)
-- Backend: Node.js, Express, MySQL, Sequelize
+- Backend: Node.js, Express, Laravel, MySQL, Sequelize
 - API design for real-world use cases
 
 ### What I do as a System Analyst
