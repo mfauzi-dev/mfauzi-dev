@@ -22,6 +22,3 @@ based on real business requirements.
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-
-### Connect
-- Linkedin : https://www.linkedin.com/in/mohammad-fauzi-6a5373264/
